@@ -1,0 +1,8 @@
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.AssemblyReference.cache
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.SuggestedBindingRedirects.cache
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.csproj.CoreCompileInputs.cache
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\penguin\source\repos\Abstraccion\Abstraccion\obj\Debug\Abstraccion.pdb

@@ -1,0 +1,11 @@
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\bin\Debug\HttpPrueba.exe.config
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\bin\Debug\HttpPrueba.exe
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\bin\Debug\HttpPrueba.pdb
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.csproj.CoreCompileInputs.cache
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.exe
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.pdb
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.csproj.AssemblyReference.cache
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\bin\Debug\Newtonsoft.Json.dll
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\bin\Debug\Newtonsoft.Json.xml
+C:\Users\penguin\source\repos\HttpPrueba\HttpPrueba\obj\Debug\HttpPrueba.csproj.CopyComplete

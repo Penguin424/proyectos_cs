@@ -1,0 +1,8 @@
+C:\Users\penguin\source\repos\Maestros\Maestros\bin\Debug\Maestros.exe.config
+C:\Users\penguin\source\repos\Maestros\Maestros\bin\Debug\Maestros.exe
+C:\Users\penguin\source\repos\Maestros\Maestros\bin\Debug\Maestros.pdb
+C:\Users\penguin\source\repos\Maestros\Maestros\obj\Debug\Maestros.csproj.AssemblyReference.cache
+C:\Users\penguin\source\repos\Maestros\Maestros\obj\Debug\Maestros.csproj.SuggestedBindingRedirects.cache
+C:\Users\penguin\source\repos\Maestros\Maestros\obj\Debug\Maestros.csproj.CoreCompileInputs.cache
+C:\Users\penguin\source\repos\Maestros\Maestros\obj\Debug\Maestros.exe
+C:\Users\penguin\source\repos\Maestros\Maestros\obj\Debug\Maestros.pdb
